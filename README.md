@@ -2,7 +2,9 @@
 A machine-learning–driven analysis of S&amp;P 500 stock volatility, identifying structural regime shifts, idiosyncratic crash patterns, and firm-level resilience across major market crises.
 
 Executive Summary
+
 Our analysis of 68.2 million CRSP daily stock observations (2019-2024) reveals that extreme price drops (≥5% decline, ≥2.5 standard deviations below company mean) cluster temporally on 96% of volatile trading days, with March 16, 2020 representing an unprecedented peak (2,244 companies simultaneously experiencing extreme drops). Using a market-relative classification methodology, we distinguish systematic events (44% of major clusters, occurring during market stress) from idiosyncratic events (56%, occurring during calm markets), with the latter surprisingly showing greater average severity (-14.82% vs -11.91%). The market has shifted from pre-COVID baseline volatility (~100-150 extreme events/month) to a persistently elevated regime (200-300 events/month) since 2021, with concentration analysis revealing that the top 50 most volatile companies account for a disproportionate share of extreme events. These findings challenge traditional diversification assumptions and provide institutional clients with actionable insights for dynamic position sizing, regime-based risk management, and stock-specific exposure limits that differentiate our sell-side research through quantitative rigor rather than generic volatility statements.
 
 Business Problem
+
 In the context of a Sell-Side research team at an investment bank, the equity research reports often make generic statements like "volatility is expected around earnings." This lacks the quantitative rigor that institutional clients demand. We sense the need to provide specific, data-backed insights about event impact to differentiate the current research and add tangible value.
